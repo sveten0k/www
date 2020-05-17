@@ -1,0 +1,27 @@
+.blue-nav {
+    background-color: #1b6d85;
+    color: #fff;
+}
+
+.blue-nav  a {
+    color: #fff;
+}
+
+.search {
+    width: 200px;
+    margin-top: 10px;
+}
+
+.main-content {
+    min-height: 500px;
+}
+
+
+.footer {
+    background-color: #0f0f0f;
+    min-height: 50px;
+}
+
+.navbar-nav li>a:hover {
+    background-color: #2e6da4;
+}

@@ -1,0 +1,70 @@
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+Sorry,error
+[01-05-2020 11:13:24] - Sorry,error in /var/www/lesson/inc/menu.inc.php: 6
+[01-05-2020 11:13:24] - Sorry,error in /var/www/lesson/inc/menu.inc.php: 6
+[01-05-2020 11:14:33] - Undefined variable: leftMenu in /var/www/lesson/inc/menu.inc.php: 5
+[01-05-2020 11:14:33] - Sorry,error in /var/www/lesson/inc/menu.inc.php: 6
+[01-05-2020 11:14:33] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:14:33] - Undefined variable: leftMenu in /var/www/lesson/inc/bottom.inc.php: 5
+[01-05-2020 11:14:33] - Undefined variable: leftMenu in /var/www/lesson/inc/menu.inc.php: 5
+[01-05-2020 11:14:33] - Sorry,error in /var/www/lesson/inc/menu.inc.php: 6
+[01-05-2020 11:14:33] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:14:33] - Undefined variable: leftMenu in /var/www/lesson/inc/bottom.inc.php: 5
+[01-05-2020 11:14:56] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:14:56] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:15:15] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:15:15] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:15:34] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:15:34] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:15:42] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 11:15:42] - Constant ERR_ON_DRAW_MENU already defined in /var/www/lesson/inc/data.inc.php: 2
+[01-05-2020 12:27:31] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:27:31] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:27:33] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:27:33] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:27:33] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:27:36] - Undefined variable: size in /var/www/lesson/contact.php: 18
+[01-05-2020 12:27:36] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:27:38] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:27:40] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:27:41] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:30:05] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:30:06] - Undefined variable: cols in /var/www/lesson/table.php: 7
+[01-05-2020 12:30:06] - Undefined variable: rows in /var/www/lesson/table.php: 8
+[01-05-2020 12:30:06] - Undefined variable: color in /var/www/lesson/table.php: 9
+[01-05-2020 12:30:06] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:30:11] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:51:52] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:51:59] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:30] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:30] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:33] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:33] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:34] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:34] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:35] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:35] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:35] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:36] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:36] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:38] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:38] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:40] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:53:45] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:56:06] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:56:06] - Undefined index: id in /var/www/lesson/index.php: 9
+[01-05-2020 12:56:14] - Undefined index: id in /var/www/lesson/index.php: 9
+[02-05-2020 13:02:16] - Undefined index: id in /var/www/lesson/index.php: 9
+[02-05-2020 13:02:30] - Undefined index: id in /var/www/lesson/index.php: 9
